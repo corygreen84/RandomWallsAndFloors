@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{203042D6-B1A2-F860-D164-5452070BB5B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level Generator/CreateWalls.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Level Generator/CreateWalls.cs" Line="36" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Level Generator" expanded="True">
+                  <Node name="CreateWalls.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e5da2ab4-83ef-4cbf-9e75-a3e3ff734eeb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
